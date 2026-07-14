@@ -1,0 +1,21 @@
+contrato_id;fornecedor_id;fornecedor;objeto_contrato;data_inicio;data_fim;valor_total_contrato;status_contrato;gestor_responsavel;unidade
+C001;F001;Alpha Serviços;Prestação de serviços continuados;2025-03-31;2028-03-15;119389,52;Vigente;Fernanda Lima;Tecnologia
+C002;F010;Prime Soluções;Suporte técnico operacional;2025-03-03;2026-08-25;690382,44;Vigente;Rafael Costa;Administrativo
+C003;F004;Delta Segurança;Prestação de serviços continuados;2024-01-19;2025-07-12;745553,10;Encerrado;Ana Paula;Atendimento
+C004;F003;Central Tech;Serviços de manutenção preventiva;2025-05-22;2028-05-06;474286,45;Vigente;Bruno Ramos;Atendimento
+C005;F004;Delta Segurança;Prestação de serviços continuados;2025-06-20;2028-06-04;790802,84;Próximo do vencimento;Rafael Costa;Operações
+C006;F002;Beta Facilities;Prestação de serviços continuados;2025-01-14;2027-01-04;847540,11;Vigente;Ana Paula;Tecnologia
+C007;F008;Higieniza Mais;Fornecimento de materiais;2024-11-26;2026-11-16;330545,50;Vigente;Fernanda Lima;Administrativo
+C008;F006;Forte Logística;Prestação de serviços continuados;2024-02-01;2026-01-21;593300,15;Encerrado;Rafael Costa;Operações
+C009;F007;Global Sistemas;Prestação de serviços continuados;2024-09-09;2025-09-04;506535,08;Encerrado;Bruno Ramos;Administrativo
+C010;F005;Eco Office;Fornecimento de materiais;2024-05-05;2025-10-27;138767,38;Encerrado;Fernanda Lima;Tecnologia
+C011;F004;Delta Segurança;Fornecimento de materiais;2024-06-05;2027-05-21;569382,57;Vigente;Rafael Costa;Atendimento
+C012;F006;Forte Logística;Suporte técnico operacional;2025-01-24;2027-07-13;406462,72;Vigente;Fernanda Lima;Tecnologia
+C013;F003;Central Tech;Serviços de manutenção preventiva;2024-07-17;2026-01-08;185576,58;Encerrado;Carlos Mendes;Contratos
+C014;F001;Alpha Serviços;Serviços de manutenção preventiva;2024-01-10;2025-12-30;430738,88;Encerrado;Fernanda Lima;Administrativo
+C015;F007;Global Sistemas;Atendimento de demandas administrativas;2024-01-27;2026-07-15;598037,12;Vigente;Ana Paula;Administrativo
+C016;F008;Higieniza Mais;Prestação de serviços continuados;2025-06-18;2026-12-10;175901,84;Vigente;Ana Paula;Contratos
+C017;F001;Alpha Serviços;Suporte técnico operacional;2024-09-02;2027-02-19;618141,44;Vigente;Bruno Ramos;Administrativo
+C018;F009;InfraMax;Atendimento de demandas administrativas;2024-12-28;2027-12-13;441350,83;Vigente;Ana Paula;Operações
+C019;F009;InfraMax;Serviços de manutenção preventiva;2024-12-10;2027-11-25;796896,77;Vigente;Rafael Costa;Operações
+C020;F008;Higieniza Mais;Fornecimento de materiais;2025-01-03;2026-12-24;634024,80;Vigente;Rafael Costa;Administrativo

@@ -1,0 +1,11 @@
+fornecedor_id;fornecedor;categoria_fornecedor;uf;status_fornecedor;avaliacao
+F001;Alpha Serviços;Limpeza;DF;Ativo;4,7
+F002;Beta Facilities;Manutenção;GO;Ativo;4,3
+F003;Central Tech;Tecnologia;DF;Ativo;4,8
+F004;Delta Segurança;Segurança;DF;Ativo;4,1
+F005;Eco Office;Material de Escritório;SP;Ativo;4,0
+F006;Forte Logística;Transporte;MG;Ativo;3,9
+F007;Global Sistemas;Tecnologia;RJ;Ativo;4,6
+F008;Higieniza Mais;Limpeza;DF;Inativo;3,7
+F009;InfraMax;Manutenção;GO;Ativo;4,2
+F010;Prime Soluções;Consultoria;SP;Ativo;4,5

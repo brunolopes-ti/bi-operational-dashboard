@@ -1,0 +1,241 @@
+demanda_id;contrato_id;fornecedor_id;fornecedor;data_abertura;data_limite;data_conclusao;categoria_demanda;prioridade;status_demanda;sla_dias;tempo_atendimento_dias;sla_cumprido;valor_estimado;unidade
+D0001;C003;F004;Delta Segurança;2025-06-28;2025-07-08;;Análise;Média;Atrasada;10;12;Não;15359,40;Atendimento
+D0002;C012;F006;Forte Logística;2025-02-15;2025-03-02;2025-02-19;Solicitação;Baixa;Concluída;15;4;Sim;6616,22;Tecnologia
+D0003;C015;F007;Global Sistemas;2025-06-21;2025-06-26;2025-07-09;Suporte;Alta;Concluída;5;18;Não;7352,93;Administrativo
+D0004;C003;F004;Delta Segurança;2026-06-26;2026-06-28;2026-07-12;Análise;Crítica;Concluída;2;16;Não;16316,94;Atendimento
+D0005;C009;F007;Global Sistemas;2025-10-11;2025-10-16;2025-10-23;Entrega;Alta;Concluída;5;12;Não;20111,25;Administrativo
+D0006;C007;F008;Higieniza Mais;2026-02-04;2026-02-19;;Correção;Baixa;Cancelada;15;;Não se aplica;22265,91;Administrativo
+D0007;C009;F007;Global Sistemas;2025-12-10;2025-12-25;;Análise;Baixa;Em andamento;15;;;11999,62;Administrativo
+D0008;C015;F007;Global Sistemas;2025-06-19;2025-06-29;;Entrega;Média;Cancelada;10;;Não se aplica;13259,03;Administrativo
+D0009;C014;F001;Alpha Serviços;2026-05-02;2026-05-17;;Manutenção;Baixa;Em andamento;15;;;7292,62;Administrativo
+D0010;C015;F007;Global Sistemas;2025-02-03;2025-02-08;;Manutenção;Alta;Cancelada;5;;Não se aplica;12327,54;Administrativo
+D0011;C014;F001;Alpha Serviços;2025-01-30;2025-02-01;;Manutenção;Crítica;Atrasada;2;19;Não;580,90;Administrativo
+D0012;C010;F005;Eco Office;2026-05-04;2026-05-09;;Manutenção;Alta;Cancelada;5;;Não se aplica;7374,70;Tecnologia
+D0013;C001;F001;Alpha Serviços;2025-07-17;2025-07-22;;Solicitação;Alta;Atrasada;5;20;Não;18057,54;Tecnologia
+D0014;C010;F005;Eco Office;2025-04-02;2025-04-12;;Análise;Média;Atrasada;10;12;Não;5437,46;Tecnologia
+D0015;C002;F010;Prime Soluções;2025-05-15;2025-05-25;;Suporte;Média;Cancelada;10;;Não se aplica;21355,73;Administrativo
+D0016;C001;F001;Alpha Serviços;2026-06-02;2026-06-17;;Entrega;Baixa;Atrasada;15;23;Não;23968,81;Tecnologia
+D0017;C013;F003;Central Tech;2025-12-07;2025-12-17;2025-12-09;Entrega;Média;Concluída;10;2;Sim;2075,81;Contratos
+D0018;C001;F001;Alpha Serviços;2025-05-09;2025-05-14;2025-05-18;Suporte;Alta;Concluída;5;9;Não;18691,63;Tecnologia
+D0019;C010;F005;Eco Office;2026-03-27;2026-04-06;2026-04-13;Manutenção;Média;Concluída;10;17;Não;5752,96;Tecnologia
+D0020;C011;F004;Delta Segurança;2026-01-16;2026-01-31;2026-02-02;Entrega;Baixa;Concluída;15;17;Não;13637,15;Atendimento
+D0021;C002;F010;Prime Soluções;2025-09-14;2025-09-19;2025-09-18;Solicitação;Alta;Concluída;5;4;Sim;18802,89;Administrativo
+D0022;C016;F008;Higieniza Mais;2026-01-24;2026-01-29;;Manutenção;Alta;Em andamento;5;;;11116,79;Contratos
+D0023;C003;F004;Delta Segurança;2025-01-27;2025-02-11;;Análise;Baixa;Atrasada;15;31;Não;10552,93;Atendimento
+D0024;C007;F008;Higieniza Mais;2025-09-06;2025-09-08;;Análise;Crítica;Cancelada;2;;Não se aplica;1371,32;Administrativo
+D0025;C015;F007;Global Sistemas;2026-02-03;2026-02-13;;Solicitação;Média;Cancelada;10;;Não se aplica;8812,66;Administrativo
+D0026;C010;F005;Eco Office;2026-02-22;2026-03-09;;Solicitação;Baixa;Cancelada;15;;Não se aplica;17066,95;Tecnologia
+D0027;C019;F009;InfraMax;2025-02-08;2025-02-18;;Suporte;Média;Atrasada;10;27;Não;11362,69;Operações
+D0028;C017;F001;Alpha Serviços;2025-11-02;2025-11-04;;Solicitação;Crítica;Atrasada;2;20;Não;11894,56;Administrativo
+D0029;C014;F001;Alpha Serviços;2025-04-06;2025-04-21;;Correção;Baixa;Em andamento;15;;;22029,12;Administrativo
+D0030;C020;F008;Higieniza Mais;2025-06-18;2025-06-28;;Solicitação;Média;Em andamento;10;;;4394,22;Administrativo
+D0031;C009;F007;Global Sistemas;2025-12-08;2025-12-13;2025-12-21;Suporte;Alta;Concluída;5;13;Não;10980,19;Administrativo
+D0032;C009;F007;Global Sistemas;2025-02-03;2025-02-05;;Solicitação;Crítica;Em andamento;2;;;14571,51;Administrativo
+D0033;C002;F010;Prime Soluções;2026-03-29;2026-04-08;;Análise;Média;Atrasada;10;29;Não;18192,79;Administrativo
+D0034;C006;F002;Beta Facilities;2025-03-05;2025-03-10;2025-03-11;Solicitação;Alta;Concluída;5;6;Não;7890,65;Tecnologia
+D0035;C020;F008;Higieniza Mais;2026-04-15;2026-04-25;2026-04-27;Suporte;Média;Concluída;10;12;Não;5494,92;Administrativo
+D0036;C011;F004;Delta Segurança;2025-06-16;2025-06-21;2025-06-22;Solicitação;Alta;Concluída;5;6;Não;18974,74;Atendimento
+D0037;C014;F001;Alpha Serviços;2025-06-07;2025-06-22;;Manutenção;Baixa;Em andamento;15;;;24029,50;Administrativo
+D0038;C005;F004;Delta Segurança;2025-07-21;2025-07-31;;Solicitação;Média;Em andamento;10;;;14060,89;Operações
+D0039;C016;F008;Higieniza Mais;2025-04-01;2025-04-06;2025-04-20;Solicitação;Alta;Concluída;5;19;Não;10181,31;Contratos
+D0040;C008;F006;Forte Logística;2025-05-18;2025-06-02;2025-05-27;Análise;Baixa;Concluída;15;9;Sim;14747,61;Operações
+D0041;C018;F009;InfraMax;2026-02-07;2026-02-12;2026-02-21;Manutenção;Alta;Concluída;5;14;Não;22888,62;Operações
+D0042;C012;F006;Forte Logística;2026-06-07;2026-06-09;;Entrega;Crítica;Em andamento;2;;;24395,56;Tecnologia
+D0043;C008;F006;Forte Logística;2025-10-18;2025-11-02;;Suporte;Baixa;Cancelada;15;;Não se aplica;17598,24;Operações
+D0044;C008;F006;Forte Logística;2026-04-14;2026-04-16;;Suporte;Crítica;Cancelada;2;;Não se aplica;9221,89;Operações
+D0045;C005;F004;Delta Segurança;2025-06-29;2025-07-09;2025-07-05;Solicitação;Média;Concluída;10;6;Sim;9798,78;Operações
+D0046;C020;F008;Higieniza Mais;2025-12-16;2025-12-31;2025-12-21;Suporte;Baixa;Concluída;15;5;Sim;4054,71;Administrativo
+D0047;C011;F004;Delta Segurança;2025-02-28;2025-03-10;2025-03-16;Suporte;Média;Concluída;10;16;Não;20602,04;Atendimento
+D0048;C001;F001;Alpha Serviços;2025-02-26;2025-03-08;;Solicitação;Média;Em andamento;10;;;1643,33;Tecnologia
+D0049;C007;F008;Higieniza Mais;2025-08-09;2025-08-24;2025-08-11;Análise;Baixa;Concluída;15;2;Sim;13809,23;Administrativo
+D0050;C003;F004;Delta Segurança;2025-04-21;2025-04-23;2025-05-11;Análise;Crítica;Concluída;2;20;Não;23990,45;Atendimento
+D0051;C009;F007;Global Sistemas;2026-01-19;2026-01-24;2026-02-08;Correção;Alta;Concluída;5;20;Não;23739,81;Administrativo
+D0052;C011;F004;Delta Segurança;2025-12-20;2026-01-04;2026-01-09;Suporte;Baixa;Concluída;15;20;Não;12334,29;Atendimento
+D0053;C007;F008;Higieniza Mais;2025-12-03;2025-12-18;;Análise;Baixa;Atrasada;15;19;Não;10990,34;Administrativo
+D0054;C008;F006;Forte Logística;2026-06-11;2026-06-26;2026-06-18;Suporte;Baixa;Concluída;15;7;Sim;8952,20;Operações
+D0055;C005;F004;Delta Segurança;2026-03-17;2026-03-22;;Manutenção;Alta;Em andamento;5;;;12880,91;Operações
+D0056;C007;F008;Higieniza Mais;2026-04-13;2026-04-15;2026-04-27;Correção;Crítica;Concluída;2;14;Não;6544,15;Administrativo
+D0057;C006;F002;Beta Facilities;2025-05-26;2025-06-10;2025-06-10;Análise;Baixa;Concluída;15;15;Sim;17108,97;Tecnologia
+D0058;C016;F008;Higieniza Mais;2026-05-12;2026-05-27;2026-05-18;Análise;Baixa;Concluída;15;6;Sim;16195,67;Contratos
+D0059;C005;F004;Delta Segurança;2025-02-22;2025-02-27;2025-03-12;Análise;Alta;Concluída;5;18;Não;15792,61;Operações
+D0060;C015;F007;Global Sistemas;2025-06-12;2025-06-22;;Correção;Média;Em andamento;10;;;23068,44;Administrativo
+D0061;C019;F009;InfraMax;2025-10-31;2025-11-15;;Manutenção;Baixa;Cancelada;15;;Não se aplica;21782,64;Operações
+D0062;C018;F009;InfraMax;2025-05-10;2025-05-15;2025-05-21;Manutenção;Alta;Concluída;5;11;Não;21179,72;Operações
+D0063;C006;F002;Beta Facilities;2026-05-17;2026-06-01;;Correção;Baixa;Em andamento;15;;;2892,51;Tecnologia
+D0064;C006;F002;Beta Facilities;2026-05-16;2026-05-18;2026-06-01;Correção;Crítica;Concluída;2;16;Não;15885,76;Tecnologia
+D0065;C013;F003;Central Tech;2026-04-14;2026-04-29;;Análise;Baixa;Em andamento;15;;;9110,94;Contratos
+D0066;C003;F004;Delta Segurança;2026-01-24;2026-01-26;;Análise;Crítica;Cancelada;2;;Não se aplica;2607,37;Atendimento
+D0067;C014;F001;Alpha Serviços;2026-03-04;2026-03-09;;Análise;Alta;Atrasada;5;25;Não;23536,25;Administrativo
+D0068;C018;F009;InfraMax;2026-02-03;2026-02-18;;Correção;Baixa;Atrasada;15;22;Não;10731,89;Operações
+D0069;C002;F010;Prime Soluções;2026-03-12;2026-03-22;2026-03-19;Entrega;Média;Concluída;10;7;Sim;17289,02;Administrativo
+D0070;C006;F002;Beta Facilities;2025-04-30;2025-05-05;2025-05-19;Análise;Alta;Concluída;5;19;Não;13753,07;Tecnologia
+D0071;C013;F003;Central Tech;2026-06-07;2026-06-17;2026-06-19;Correção;Média;Concluída;10;12;Não;24072,28;Contratos
+D0072;C012;F006;Forte Logística;2026-05-22;2026-06-06;;Entrega;Baixa;Em andamento;15;;;599,77;Tecnologia
+D0073;C009;F007;Global Sistemas;2026-06-21;2026-07-06;;Suporte;Baixa;Em andamento;15;;;20101,26;Administrativo
+D0074;C010;F005;Eco Office;2026-02-22;2026-02-24;2026-03-13;Suporte;Crítica;Concluída;2;19;Não;12438,17;Tecnologia
+D0075;C012;F006;Forte Logística;2025-04-18;2025-05-03;2025-04-29;Solicitação;Baixa;Concluída;15;11;Sim;9429,42;Tecnologia
+D0076;C012;F006;Forte Logística;2025-02-07;2025-02-09;2025-02-23;Manutenção;Crítica;Concluída;2;16;Não;14959,94;Tecnologia
+D0077;C011;F004;Delta Segurança;2025-03-15;2025-03-30;2025-03-24;Suporte;Baixa;Concluída;15;9;Sim;11779,94;Atendimento
+D0078;C001;F001;Alpha Serviços;2025-07-29;2025-07-31;2025-07-31;Manutenção;Crítica;Concluída;2;2;Sim;9050,31;Tecnologia
+D0079;C011;F004;Delta Segurança;2025-07-18;2025-07-28;2025-08-07;Solicitação;Média;Concluída;10;20;Não;14435,23;Atendimento
+D0080;C012;F006;Forte Logística;2025-04-17;2025-04-27;2025-05-05;Manutenção;Média;Concluída;10;18;Não;21448,94;Tecnologia
+D0081;C020;F008;Higieniza Mais;2025-04-29;2025-05-01;2025-05-02;Correção;Crítica;Concluída;2;3;Não;4093,99;Administrativo
+D0082;C010;F005;Eco Office;2025-06-05;2025-06-15;;Correção;Média;Atrasada;10;25;Não;4161,16;Tecnologia
+D0083;C012;F006;Forte Logística;2025-01-19;2025-01-29;2025-02-05;Solicitação;Média;Concluída;10;17;Não;19426,50;Tecnologia
+D0084;C012;F006;Forte Logística;2026-01-10;2026-01-12;2026-01-28;Manutenção;Crítica;Concluída;2;18;Não;20335,69;Tecnologia
+D0085;C006;F002;Beta Facilities;2025-03-20;2025-03-25;2025-03-21;Solicitação;Alta;Concluída;5;1;Sim;17155,56;Tecnologia
+D0086;C015;F007;Global Sistemas;2026-03-22;2026-04-06;;Solicitação;Baixa;Atrasada;15;24;Não;4352,65;Administrativo
+D0087;C019;F009;InfraMax;2025-10-03;2025-10-08;2025-10-11;Análise;Alta;Concluída;5;8;Não;2851,16;Operações
+D0088;C018;F009;InfraMax;2026-02-11;2026-02-26;;Análise;Baixa;Em andamento;15;;;4513,87;Operações
+D0089;C011;F004;Delta Segurança;2025-01-05;2025-01-15;;Correção;Média;Cancelada;10;;Não se aplica;19630,60;Atendimento
+D0090;C012;F006;Forte Logística;2026-03-16;2026-03-18;2026-03-19;Manutenção;Crítica;Concluída;2;3;Não;11901,42;Tecnologia
+D0091;C008;F006;Forte Logística;2026-02-19;2026-02-24;;Solicitação;Alta;Atrasada;5;13;Não;12357,19;Operações
+D0092;C001;F001;Alpha Serviços;2025-08-22;2025-08-24;2025-09-07;Manutenção;Crítica;Concluída;2;16;Não;20908,02;Tecnologia
+D0093;C019;F009;InfraMax;2025-04-26;2025-05-06;;Análise;Média;Cancelada;10;;Não se aplica;16178,12;Operações
+D0094;C004;F003;Central Tech;2025-06-26;2025-07-01;;Entrega;Alta;Atrasada;5;15;Não;10450,46;Atendimento
+D0095;C001;F001;Alpha Serviços;2025-11-18;2025-11-23;;Suporte;Alta;Atrasada;5;18;Não;23246,65;Tecnologia
+D0096;C005;F004;Delta Segurança;2025-05-07;2025-05-17;2025-05-27;Entrega;Média;Concluída;10;20;Não;3639,26;Operações
+D0097;C011;F004;Delta Segurança;2025-05-02;2025-05-12;;Suporte;Média;Atrasada;10;24;Não;18626,42;Atendimento
+D0098;C015;F007;Global Sistemas;2025-01-07;2025-01-09;;Análise;Crítica;Atrasada;2;9;Não;10280,92;Administrativo
+D0099;C015;F007;Global Sistemas;2025-07-21;2025-07-31;2025-07-27;Entrega;Média;Concluída;10;6;Sim;24444,45;Administrativo
+D0100;C018;F009;InfraMax;2025-02-03;2025-02-13;;Suporte;Média;Em andamento;10;;;24857,93;Operações
+D0101;C011;F004;Delta Segurança;2025-05-09;2025-05-11;2025-05-18;Solicitação;Crítica;Concluída;2;9;Não;11282,89;Atendimento
+D0102;C002;F010;Prime Soluções;2025-06-01;2025-06-03;;Entrega;Crítica;Em andamento;2;;;693,12;Administrativo
+D0103;C010;F005;Eco Office;2026-04-12;2026-04-27;2026-04-15;Análise;Baixa;Concluída;15;3;Sim;9433,04;Tecnologia
+D0104;C002;F010;Prime Soluções;2025-09-17;2025-09-22;2025-09-27;Manutenção;Alta;Concluída;5;10;Não;3547,23;Administrativo
+D0105;C008;F006;Forte Logística;2026-03-04;2026-03-06;;Suporte;Crítica;Cancelada;2;;Não se aplica;11301,01;Operações
+D0106;C010;F005;Eco Office;2025-11-20;2025-11-30;2025-11-26;Correção;Média;Concluída;10;6;Sim;23838,20;Tecnologia
+D0107;C001;F001;Alpha Serviços;2026-03-04;2026-03-19;;Manutenção;Baixa;Em andamento;15;;;23790,34;Tecnologia
+D0108;C004;F003;Central Tech;2025-04-26;2025-05-11;2025-05-05;Suporte;Baixa;Concluída;15;9;Sim;10936,97;Atendimento
+D0109;C016;F008;Higieniza Mais;2025-03-01;2025-03-16;;Suporte;Baixa;Cancelada;15;;Não se aplica;17702,10;Contratos
+D0110;C013;F003;Central Tech;2026-04-04;2026-04-06;;Manutenção;Crítica;Em andamento;2;;;15941,43;Contratos
+D0111;C017;F001;Alpha Serviços;2025-07-05;2025-07-20;2025-07-08;Entrega;Baixa;Concluída;15;3;Sim;21739,31;Administrativo
+D0112;C004;F003;Central Tech;2026-06-20;2026-06-30;2026-07-02;Suporte;Média;Concluída;10;12;Não;9889,24;Atendimento
+D0113;C001;F001;Alpha Serviços;2025-07-11;2025-07-13;;Suporte;Crítica;Cancelada;2;;Não se aplica;3868,74;Tecnologia
+D0114;C020;F008;Higieniza Mais;2025-08-28;2025-08-30;;Entrega;Crítica;Cancelada;2;;Não se aplica;6223,88;Administrativo
+D0115;C012;F006;Forte Logística;2025-06-15;2025-06-20;2025-06-23;Entrega;Alta;Concluída;5;8;Não;9732,03;Tecnologia
+D0116;C004;F003;Central Tech;2025-11-11;2025-11-13;2025-11-12;Suporte;Crítica;Concluída;2;1;Sim;8960,35;Atendimento
+D0117;C017;F001;Alpha Serviços;2025-09-24;2025-10-04;2025-10-13;Entrega;Média;Concluída;10;19;Não;24298,88;Administrativo
+D0118;C001;F001;Alpha Serviços;2026-02-12;2026-02-17;2026-02-28;Correção;Alta;Concluída;5;16;Não;6311,26;Tecnologia
+D0119;C011;F004;Delta Segurança;2025-03-30;2025-04-09;2025-04-12;Análise;Média;Concluída;10;13;Não;16535,85;Atendimento
+D0120;C012;F006;Forte Logística;2025-07-27;2025-07-29;2025-08-08;Manutenção;Crítica;Concluída;2;12;Não;11083,38;Tecnologia
+D0121;C004;F003;Central Tech;2026-01-03;2026-01-08;;Manutenção;Alta;Cancelada;5;;Não se aplica;12252,23;Atendimento
+D0122;C001;F001;Alpha Serviços;2025-05-05;2025-05-20;;Suporte;Baixa;Cancelada;15;;Não se aplica;5161,11;Tecnologia
+D0123;C011;F004;Delta Segurança;2025-11-14;2025-11-24;;Manutenção;Média;Em andamento;10;;;18464,82;Atendimento
+D0124;C018;F009;InfraMax;2025-04-25;2025-04-27;2025-05-02;Suporte;Crítica;Concluída;2;7;Não;4529,06;Operações
+D0125;C019;F009;InfraMax;2025-01-26;2025-01-28;;Solicitação;Crítica;Atrasada;2;5;Não;8009,42;Operações
+D0126;C010;F005;Eco Office;2025-08-03;2025-08-13;;Solicitação;Média;Em andamento;10;;;12746,36;Tecnologia
+D0127;C001;F001;Alpha Serviços;2026-01-24;2026-02-03;;Suporte;Média;Em andamento;10;;;10655,47;Tecnologia
+D0128;C014;F001;Alpha Serviços;2026-05-28;2026-06-02;;Análise;Alta;Cancelada;5;;Não se aplica;15856,88;Administrativo
+D0129;C017;F001;Alpha Serviços;2026-01-26;2026-02-05;;Suporte;Média;Atrasada;10;29;Não;12681,85;Administrativo
+D0130;C016;F008;Higieniza Mais;2026-06-29;2026-07-09;2026-07-09;Solicitação;Média;Concluída;10;10;Sim;23968,49;Contratos
+D0131;C008;F006;Forte Logística;2025-06-13;2025-06-23;;Análise;Média;Cancelada;10;;Não se aplica;24649,12;Operações
+D0132;C006;F002;Beta Facilities;2025-01-16;2025-01-31;2025-01-23;Manutenção;Baixa;Concluída;15;7;Sim;22685,54;Tecnologia
+D0133;C006;F002;Beta Facilities;2025-09-23;2025-10-03;;Suporte;Média;Cancelada;10;;Não se aplica;13986,34;Tecnologia
+D0134;C013;F003;Central Tech;2025-10-01;2025-10-06;;Correção;Alta;Cancelada;5;;Não se aplica;24738,83;Contratos
+D0135;C017;F001;Alpha Serviços;2025-06-17;2025-07-02;;Solicitação;Baixa;Cancelada;15;;Não se aplica;24231,63;Administrativo
+D0136;C018;F009;InfraMax;2026-05-22;2026-05-27;;Entrega;Alta;Cancelada;5;;Não se aplica;16395,20;Operações
+D0137;C003;F004;Delta Segurança;2026-04-23;2026-04-25;;Suporte;Crítica;Em andamento;2;;;1358,63;Atendimento
+D0138;C001;F001;Alpha Serviços;2025-07-29;2025-07-31;;Solicitação;Crítica;Cancelada;2;;Não se aplica;15552,82;Tecnologia
+D0139;C005;F004;Delta Segurança;2025-12-08;2025-12-10;;Análise;Crítica;Cancelada;2;;Não se aplica;22288,41;Operações
+D0140;C018;F009;InfraMax;2026-05-17;2026-05-19;2026-05-18;Solicitação;Crítica;Concluída;2;1;Sim;11742,23;Operações
+D0141;C004;F003;Central Tech;2025-11-23;2025-12-08;;Entrega;Baixa;Cancelada;15;;Não se aplica;6979,69;Atendimento
+D0142;C002;F010;Prime Soluções;2025-05-03;2025-05-18;;Entrega;Baixa;Cancelada;15;;Não se aplica;13642,62;Administrativo
+D0143;C017;F001;Alpha Serviços;2026-03-26;2026-03-28;2026-03-29;Correção;Crítica;Concluída;2;3;Não;1593,62;Administrativo
+D0144;C005;F004;Delta Segurança;2025-01-13;2025-01-18;2025-01-18;Manutenção;Alta;Concluída;5;5;Sim;11602,70;Operações
+D0145;C010;F005;Eco Office;2025-08-02;2025-08-04;;Análise;Crítica;Atrasada;2;22;Não;5013,84;Tecnologia
+D0146;C010;F005;Eco Office;2026-04-06;2026-04-16;2026-04-09;Manutenção;Média;Concluída;10;3;Sim;22339,46;Tecnologia
+D0147;C018;F009;InfraMax;2025-03-18;2025-03-20;2025-04-04;Manutenção;Crítica;Concluída;2;17;Não;17006,36;Operações
+D0148;C008;F006;Forte Logística;2025-09-14;2025-09-16;;Suporte;Crítica;Cancelada;2;;Não se aplica;2508,23;Operações
+D0149;C013;F003;Central Tech;2025-12-09;2025-12-11;2025-12-23;Análise;Crítica;Concluída;2;14;Não;8503,49;Contratos
+D0150;C008;F006;Forte Logística;2025-01-11;2025-01-13;;Entrega;Crítica;Atrasada;2;18;Não;21932,40;Operações
+D0151;C013;F003;Central Tech;2025-03-24;2025-03-29;2025-04-02;Solicitação;Alta;Concluída;5;9;Não;14715,52;Contratos
+D0152;C017;F001;Alpha Serviços;2025-05-19;2025-06-03;;Entrega;Baixa;Atrasada;15;35;Não;16830,51;Administrativo
+D0153;C015;F007;Global Sistemas;2026-02-27;2026-03-04;;Suporte;Alta;Atrasada;5;12;Não;16850,61;Administrativo
+D0154;C011;F004;Delta Segurança;2026-04-10;2026-04-12;;Suporte;Crítica;Atrasada;2;20;Não;21396,61;Atendimento
+D0155;C002;F010;Prime Soluções;2026-03-29;2026-04-13;;Análise;Baixa;Em andamento;15;;;12916,46;Administrativo
+D0156;C014;F001;Alpha Serviços;2026-04-10;2026-04-12;2026-04-28;Manutenção;Crítica;Concluída;2;18;Não;6425,76;Administrativo
+D0157;C002;F010;Prime Soluções;2025-07-15;2025-07-25;;Entrega;Média;Cancelada;10;;Não se aplica;9949,83;Administrativo
+D0158;C012;F006;Forte Logística;2025-12-12;2025-12-27;;Análise;Baixa;Cancelada;15;;Não se aplica;23056,65;Tecnologia
+D0159;C018;F009;InfraMax;2025-08-16;2025-08-26;2025-08-18;Entrega;Média;Concluída;10;2;Sim;6805,62;Operações
+D0160;C014;F001;Alpha Serviços;2026-05-10;2026-05-15;2026-05-28;Correção;Alta;Concluída;5;18;Não;14846,18;Administrativo
+D0161;C010;F005;Eco Office;2025-06-04;2025-06-06;;Análise;Crítica;Em andamento;2;;;6743,04;Tecnologia
+D0162;C015;F007;Global Sistemas;2025-08-21;2025-08-31;;Análise;Média;Em andamento;10;;;7592,05;Administrativo
+D0163;C003;F004;Delta Segurança;2026-05-12;2026-05-17;2026-05-30;Solicitação;Alta;Concluída;5;18;Não;8905,34;Atendimento
+D0164;C002;F010;Prime Soluções;2026-06-25;2026-06-27;;Solicitação;Crítica;Cancelada;2;;Não se aplica;16792,28;Administrativo
+D0165;C011;F004;Delta Segurança;2025-04-24;2025-05-09;;Manutenção;Baixa;Cancelada;15;;Não se aplica;2922,31;Atendimento
+D0166;C015;F007;Global Sistemas;2025-08-07;2025-08-22;2025-08-13;Manutenção;Baixa;Concluída;15;6;Sim;12476,33;Administrativo
+D0167;C016;F008;Higieniza Mais;2025-08-01;2025-08-16;;Análise;Baixa;Atrasada;15;22;Não;18472,71;Contratos
+D0168;C006;F002;Beta Facilities;2025-09-04;2025-09-09;;Entrega;Alta;Em andamento;5;;;1572,02;Tecnologia
+D0169;C009;F007;Global Sistemas;2025-04-16;2025-04-18;;Correção;Crítica;Atrasada;2;20;Não;16446,73;Administrativo
+D0170;C010;F005;Eco Office;2025-06-05;2025-06-20;;Suporte;Baixa;Cancelada;15;;Não se aplica;11359,39;Tecnologia
+D0171;C011;F004;Delta Segurança;2025-09-06;2025-09-08;2025-09-11;Correção;Crítica;Concluída;2;5;Não;6716,85;Atendimento
+D0172;C016;F008;Higieniza Mais;2025-09-27;2025-10-02;;Entrega;Alta;Atrasada;5;21;Não;16808,16;Contratos
+D0173;C008;F006;Forte Logística;2025-03-10;2025-03-15;2025-03-17;Solicitação;Alta;Concluída;5;7;Não;12529,27;Operações
+D0174;C002;F010;Prime Soluções;2025-12-12;2025-12-22;2025-12-18;Análise;Média;Concluída;10;6;Sim;4698,96;Administrativo
+D0175;C010;F005;Eco Office;2026-04-09;2026-04-11;;Correção;Crítica;Cancelada;2;;Não se aplica;6787,27;Tecnologia
+D0176;C002;F010;Prime Soluções;2026-04-02;2026-04-07;2026-04-06;Solicitação;Alta;Concluída;5;4;Sim;24042,39;Administrativo
+D0177;C002;F010;Prime Soluções;2025-07-13;2025-07-23;2025-07-14;Análise;Média;Concluída;10;1;Sim;18363,93;Administrativo
+D0178;C014;F001;Alpha Serviços;2025-01-24;2025-02-08;;Correção;Baixa;Em andamento;15;;;18640,92;Administrativo
+D0179;C014;F001;Alpha Serviços;2025-06-30;2025-07-15;2025-07-09;Análise;Baixa;Concluída;15;9;Sim;15224,56;Administrativo
+D0180;C001;F001;Alpha Serviços;2025-07-18;2025-08-02;2025-08-05;Solicitação;Baixa;Concluída;15;18;Não;1075,68;Tecnologia
+D0181;C019;F009;InfraMax;2025-01-31;2025-02-05;;Suporte;Alta;Atrasada;5;13;Não;21395,59;Operações
+D0182;C008;F006;Forte Logística;2025-07-21;2025-07-31;2025-08-04;Análise;Média;Concluída;10;14;Não;3902,55;Operações
+D0183;C003;F004;Delta Segurança;2025-11-01;2025-11-11;;Suporte;Média;Cancelada;10;;Não se aplica;9292,10;Atendimento
+D0184;C008;F006;Forte Logística;2025-05-14;2025-05-16;;Solicitação;Crítica;Atrasada;2;16;Não;14764,50;Operações
+D0185;C009;F007;Global Sistemas;2026-02-20;2026-02-25;;Entrega;Alta;Atrasada;5;19;Não;21308,20;Administrativo
+D0186;C009;F007;Global Sistemas;2026-02-19;2026-03-01;2026-02-22;Manutenção;Média;Concluída;10;3;Sim;22219,73;Administrativo
+D0187;C015;F007;Global Sistemas;2025-07-08;2025-07-13;2025-07-14;Solicitação;Alta;Concluída;5;6;Não;6369,89;Administrativo
+D0188;C015;F007;Global Sistemas;2025-05-08;2025-05-10;;Manutenção;Crítica;Em andamento;2;;;20555,79;Administrativo
+D0189;C006;F002;Beta Facilities;2025-01-07;2025-01-22;;Suporte;Baixa;Atrasada;15;26;Não;2826,43;Tecnologia
+D0190;C019;F009;InfraMax;2025-06-02;2025-06-07;;Análise;Alta;Cancelada;5;;Não se aplica;3924,43;Operações
+D0191;C004;F003;Central Tech;2026-05-16;2026-05-18;;Suporte;Crítica;Cancelada;2;;Não se aplica;3892,86;Atendimento
+D0192;C010;F005;Eco Office;2025-06-05;2025-06-07;;Solicitação;Crítica;Cancelada;2;;Não se aplica;8286,35;Tecnologia
+D0193;C009;F007;Global Sistemas;2026-01-24;2026-01-29;2026-02-05;Solicitação;Alta;Concluída;5;12;Não;7375,38;Administrativo
+D0194;C011;F004;Delta Segurança;2026-02-19;2026-02-24;2026-02-26;Análise;Alta;Concluída;5;7;Não;11295,97;Atendimento
+D0195;C001;F001;Alpha Serviços;2025-12-11;2025-12-13;2025-12-23;Entrega;Crítica;Concluída;2;12;Não;14286,95;Tecnologia
+D0196;C017;F001;Alpha Serviços;2026-03-06;2026-03-21;;Suporte;Baixa;Atrasada;15;29;Não;15361,52;Administrativo
+D0197;C020;F008;Higieniza Mais;2025-08-26;2025-08-28;2025-09-11;Análise;Crítica;Concluída;2;16;Não;10179,30;Administrativo
+D0198;C001;F001;Alpha Serviços;2025-10-20;2025-10-30;;Análise;Média;Atrasada;10;12;Não;16530,05;Tecnologia
+D0199;C013;F003;Central Tech;2025-12-17;2025-12-27;;Solicitação;Média;Em andamento;10;;;8405,91;Contratos
+D0200;C010;F005;Eco Office;2025-04-05;2025-04-10;2025-04-06;Análise;Alta;Concluída;5;1;Sim;13407,29;Tecnologia
+D0201;C008;F006;Forte Logística;2026-03-23;2026-03-28;2026-04-04;Manutenção;Alta;Concluída;5;12;Não;19958,72;Operações
+D0202;C014;F001;Alpha Serviços;2026-06-29;2026-07-01;2026-07-02;Manutenção;Crítica;Concluída;2;3;Não;15818,97;Administrativo
+D0203;C017;F001;Alpha Serviços;2025-01-05;2025-01-20;;Suporte;Baixa;Atrasada;15;18;Não;23046,75;Administrativo
+D0204;C002;F010;Prime Soluções;2025-03-28;2025-04-02;;Análise;Alta;Cancelada;5;;Não se aplica;19700,48;Administrativo
+D0205;C011;F004;Delta Segurança;2025-04-16;2025-04-18;;Solicitação;Crítica;Em andamento;2;;;22584,21;Atendimento
+D0206;C016;F008;Higieniza Mais;2026-03-18;2026-03-28;;Manutenção;Média;Em andamento;10;;;13886,20;Contratos
+D0207;C019;F009;InfraMax;2025-05-10;2025-05-20;;Correção;Média;Cancelada;10;;Não se aplica;23581,43;Operações
+D0208;C018;F009;InfraMax;2025-09-18;2025-10-03;2025-09-24;Correção;Baixa;Concluída;15;6;Sim;13624,75;Operações
+D0209;C012;F006;Forte Logística;2025-02-08;2025-02-10;;Manutenção;Crítica;Em andamento;2;;;980,48;Tecnologia
+D0210;C013;F003;Central Tech;2026-05-22;2026-05-27;2026-05-25;Análise;Alta;Concluída;5;3;Sim;11873,34;Contratos
+D0211;C003;F004;Delta Segurança;2026-05-01;2026-05-06;;Suporte;Alta;Cancelada;5;;Não se aplica;12057,14;Atendimento
+D0212;C004;F003;Central Tech;2025-03-17;2025-04-01;2025-03-30;Análise;Baixa;Concluída;15;13;Sim;8172,29;Atendimento
+D0213;C004;F003;Central Tech;2026-06-02;2026-06-04;2026-06-11;Correção;Crítica;Concluída;2;9;Não;8101,00;Atendimento
+D0214;C006;F002;Beta Facilities;2025-11-29;2025-12-04;;Solicitação;Alta;Cancelada;5;;Não se aplica;12914,93;Tecnologia
+D0215;C013;F003;Central Tech;2025-05-02;2025-05-17;;Suporte;Baixa;Atrasada;15;26;Não;17945,07;Contratos
+D0216;C007;F008;Higieniza Mais;2025-07-09;2025-07-19;;Análise;Média;Em andamento;10;;;3076,06;Administrativo
+D0217;C004;F003;Central Tech;2025-03-21;2025-03-26;2025-03-23;Solicitação;Alta;Concluída;5;2;Sim;17638,39;Atendimento
+D0218;C019;F009;InfraMax;2025-08-22;2025-08-27;2025-09-08;Correção;Alta;Concluída;5;17;Não;7164,00;Operações
+D0219;C011;F004;Delta Segurança;2026-02-27;2026-03-09;;Suporte;Média;Atrasada;10;20;Não;7447,87;Atendimento
+D0220;C005;F004;Delta Segurança;2025-11-06;2025-11-08;;Correção;Crítica;Em andamento;2;;;9526,63;Operações
+D0221;C006;F002;Beta Facilities;2025-01-28;2025-02-02;;Correção;Alta;Cancelada;5;;Não se aplica;10359,62;Tecnologia
+D0222;C014;F001;Alpha Serviços;2025-02-16;2025-02-18;2025-03-07;Análise;Crítica;Concluída;2;19;Não;3350,06;Administrativo
+D0223;C003;F004;Delta Segurança;2025-02-25;2025-03-07;;Entrega;Média;Cancelada;10;;Não se aplica;15185,47;Atendimento
+D0224;C005;F004;Delta Segurança;2025-01-13;2025-01-28;2025-01-25;Manutenção;Baixa;Concluída;15;12;Sim;18366,84;Operações
+D0225;C014;F001;Alpha Serviços;2026-05-29;2026-06-08;;Entrega;Média;Cancelada;10;;Não se aplica;23312,00;Administrativo
+D0226;C001;F001;Alpha Serviços;2025-02-18;2025-02-20;;Solicitação;Crítica;Atrasada;2;13;Não;5756,06;Tecnologia
+D0227;C014;F001;Alpha Serviços;2025-04-22;2025-04-24;2025-04-24;Solicitação;Crítica;Concluída;2;2;Sim;5344,91;Administrativo
+D0228;C013;F003;Central Tech;2025-10-11;2025-10-26;;Correção;Baixa;Em andamento;15;;;6451,65;Contratos
+D0229;C017;F001;Alpha Serviços;2025-08-31;2025-09-02;;Manutenção;Crítica;Atrasada;2;10;Não;22508,14;Administrativo
+D0230;C012;F006;Forte Logística;2025-09-23;2025-10-08;2025-10-03;Correção;Baixa;Concluída;15;10;Sim;10104,20;Tecnologia
+D0231;C010;F005;Eco Office;2025-04-20;2025-04-30;2025-05-02;Entrega;Média;Concluída;10;12;Não;17641,90;Tecnologia
+D0232;C007;F008;Higieniza Mais;2025-10-17;2025-10-22;2025-10-24;Solicitação;Alta;Concluída;5;7;Não;21732,57;Administrativo
+D0233;C011;F004;Delta Segurança;2025-11-20;2025-11-30;2025-11-26;Suporte;Média;Concluída;10;6;Sim;10858,11;Atendimento
+D0234;C014;F001;Alpha Serviços;2025-12-15;2025-12-17;;Correção;Crítica;Em andamento;2;;;14533,58;Administrativo
+D0235;C001;F001;Alpha Serviços;2025-10-16;2025-10-18;;Correção;Crítica;Em andamento;2;;;644,98;Tecnologia
+D0236;C010;F005;Eco Office;2026-06-19;2026-06-29;;Entrega;Média;Atrasada;10;16;Não;20590,22;Tecnologia
+D0237;C018;F009;InfraMax;2026-02-06;2026-02-08;2026-02-11;Correção;Crítica;Concluída;2;5;Não;21365,09;Operações
+D0238;C010;F005;Eco Office;2025-12-30;2026-01-09;;Análise;Média;Em andamento;10;;;10252,29;Tecnologia
+D0239;C002;F010;Prime Soluções;2025-12-27;2026-01-11;2026-01-16;Análise;Baixa;Concluída;15;20;Não;19716,49;Administrativo
+D0240;C011;F004;Delta Segurança;2025-06-30;2025-07-15;;Análise;Baixa;Cancelada;15;;Não se aplica;6922,48;Atendimento

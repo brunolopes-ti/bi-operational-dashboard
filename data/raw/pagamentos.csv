@@ -1,0 +1,121 @@
+pagamento_id;contrato_id;fornecedor_id;fornecedor;competencia;data_pagamento;valor_pago;status_pagamento;tipo_despesa
+P0001;C017;F001;Alpha Serviços;2025-07;2025-07-19;18359,74;Pago;Manutenção
+P0002;C016;F008;Higieniza Mais;2025-09;2026-01-16;41683,67;Pago;Serviço avulso
+P0003;C006;F002;Beta Facilities;2026-12;2026-01-10;23220,18;Pago;Mensal
+P0004;C006;F002;Beta Facilities;2026-03;2025-09-02;33811,23;Pago;Manutenção
+P0005;C018;F009;InfraMax;2026-10;;3103,55;Em análise;Material
+P0006;C015;F007;Global Sistemas;2026-08;2025-02-21;15559,68;Pago;Serviço avulso
+P0007;C010;F005;Eco Office;2026-12;;30672,43;Em análise;Material
+P0008;C017;F001;Alpha Serviços;2026-09;;49168,69;Em análise;Serviço avulso
+P0009;C014;F001;Alpha Serviços;2026-10;2026-06-11;42981,02;Pago;Suporte
+P0010;C020;F008;Higieniza Mais;2026-11;2026-06-12;38061,96;Pago;Serviço avulso
+P0011;C011;F004;Delta Segurança;2026-03;2025-06-30;28611,72;Pago;Manutenção
+P0012;C016;F008;Higieniza Mais;2026-01;2026-06-19;53902,95;Pago;Serviço avulso
+P0013;C019;F009;InfraMax;2025-09;2025-12-17;34802,52;Pago;Serviço avulso
+P0014;C005;F004;Delta Segurança;2026-07;2025-08-06;3915,96;Pago;Mensal
+P0015;C011;F004;Delta Segurança;2026-02;2025-05-13;27403,86;Pago;Suporte
+P0016;C016;F008;Higieniza Mais;2026-01;;43473,19;Em análise;Manutenção
+P0017;C005;F004;Delta Segurança;2025-08;2025-11-20;7396,78;Pago;Material
+P0018;C007;F008;Higieniza Mais;2026-03;2026-06-15;21313,91;Pago;Mensal
+P0019;C001;F001;Alpha Serviços;2026-03;;27457,73;Em análise;Material
+P0020;C019;F009;InfraMax;2025-08;2026-01-20;17466,79;Pago;Suporte
+P0021;C018;F009;InfraMax;2025-09;2025-08-14;57200,28;Pago;Material
+P0022;C011;F004;Delta Segurança;2026-02;;21313,94;Atrasado;Mensal
+P0023;C006;F002;Beta Facilities;2026-03;;18287,89;Em análise;Suporte
+P0024;C005;F004;Delta Segurança;2025-01;;58931,61;Atrasado;Manutenção
+P0025;C005;F004;Delta Segurança;2026-08;;32092,35;Atrasado;Mensal
+P0026;C008;F006;Forte Logística;2025-02;;34643,63;Em análise;Material
+P0027;C009;F007;Global Sistemas;2026-05;;44404,48;Em análise;Material
+P0028;C007;F008;Higieniza Mais;2026-12;;5336,78;Em análise;Mensal
+P0029;C006;F002;Beta Facilities;2025-10;2025-04-06;37830,80;Pago;Mensal
+P0030;C008;F006;Forte Logística;2026-02;;36288,60;Atrasado;Material
+P0031;C011;F004;Delta Segurança;2026-10;;15850,31;Em análise;Mensal
+P0032;C004;F003;Central Tech;2025-02;;52324,64;Atrasado;Manutenção
+P0033;C013;F003;Central Tech;2025-10;2025-10-30;37444,65;Pago;Serviço avulso
+P0034;C015;F007;Global Sistemas;2026-03;2026-02-26;58729,09;Pago;Serviço avulso
+P0035;C006;F002;Beta Facilities;2026-02;2025-05-20;8296,78;Pago;Manutenção
+P0036;C017;F001;Alpha Serviços;2026-06;2026-02-16;59738,08;Pago;Suporte
+P0037;C007;F008;Higieniza Mais;2026-04;;43741,56;Em análise;Mensal
+P0038;C002;F010;Prime Soluções;2025-01;2025-05-09;10282,10;Pago;Mensal
+P0039;C015;F007;Global Sistemas;2025-10;2026-04-17;43841,64;Pago;Material
+P0040;C005;F004;Delta Segurança;2025-12;;56786,55;Pendente;Material
+P0041;C015;F007;Global Sistemas;2025-08;;28446,45;Pendente;Mensal
+P0042;C013;F003;Central Tech;2025-07;;25161,54;Pendente;Material
+P0043;C008;F006;Forte Logística;2025-11;;49744,56;Em análise;Mensal
+P0044;C006;F002;Beta Facilities;2025-06;2026-02-15;28646,58;Pago;Mensal
+P0045;C004;F003;Central Tech;2025-11;2025-03-23;48658,19;Pago;Suporte
+P0046;C008;F006;Forte Logística;2025-11;2025-05-02;51924,52;Pago;Manutenção
+P0047;C007;F008;Higieniza Mais;2025-08;;8056,63;Atrasado;Manutenção
+P0048;C005;F004;Delta Segurança;2025-08;2025-03-03;27081,86;Pago;Suporte
+P0049;C011;F004;Delta Segurança;2025-12;2026-05-17;4013,07;Pago;Suporte
+P0050;C017;F001;Alpha Serviços;2026-06;;56224,85;Atrasado;Manutenção
+P0051;C018;F009;InfraMax;2025-06;2025-11-10;11971,64;Pago;Serviço avulso
+P0052;C010;F005;Eco Office;2025-10;;42007,61;Pendente;Suporte
+P0053;C003;F004;Delta Segurança;2025-11;2025-05-20;25105,05;Pago;Manutenção
+P0054;C011;F004;Delta Segurança;2026-01;2025-06-14;17831,81;Pago;Serviço avulso
+P0055;C014;F001;Alpha Serviços;2025-11;;21396,44;Em análise;Serviço avulso
+P0056;C003;F004;Delta Segurança;2026-01;2026-01-26;12365,20;Pago;Material
+P0057;C004;F003;Central Tech;2025-09;2026-05-16;7285,35;Pago;Material
+P0058;C014;F001;Alpha Serviços;2025-01;2025-06-19;35907,01;Pago;Manutenção
+P0059;C013;F003;Central Tech;2026-12;;6639,50;Em análise;Mensal
+P0060;C014;F001;Alpha Serviços;2025-07;2025-05-31;24848,89;Pago;Serviço avulso
+P0061;C019;F009;InfraMax;2026-10;;15374,50;Atrasado;Suporte
+P0062;C002;F010;Prime Soluções;2025-08;;7774,13;Pendente;Suporte
+P0063;C011;F004;Delta Segurança;2026-08;;51709,79;Atrasado;Material
+P0064;C020;F008;Higieniza Mais;2025-07;;56054,89;Pendente;Suporte
+P0065;C014;F001;Alpha Serviços;2025-11;;6484,45;Atrasado;Material
+P0066;C016;F008;Higieniza Mais;2026-08;;40414,17;Pendente;Manutenção
+P0067;C008;F006;Forte Logística;2025-07;;35823,52;Em análise;Serviço avulso
+P0068;C011;F004;Delta Segurança;2026-11;;36296,78;Em análise;Manutenção
+P0069;C006;F002;Beta Facilities;2025-02;2025-10-29;5307,57;Pago;Material
+P0070;C009;F007;Global Sistemas;2026-06;;27352,47;Atrasado;Material
+P0071;C014;F001;Alpha Serviços;2026-05;2025-08-27;18647,91;Pago;Manutenção
+P0072;C007;F008;Higieniza Mais;2025-02;;34055,60;Atrasado;Mensal
+P0073;C003;F004;Delta Segurança;2026-11;2025-01-28;54540,19;Pago;Mensal
+P0074;C017;F001;Alpha Serviços;2026-09;;37256,26;Atrasado;Suporte
+P0075;C013;F003;Central Tech;2025-03;2025-06-07;18808,08;Pago;Mensal
+P0076;C004;F003;Central Tech;2026-08;2026-05-29;51773,48;Pago;Serviço avulso
+P0077;C001;F001;Alpha Serviços;2025-02;2025-06-24;19445,90;Pago;Serviço avulso
+P0078;C013;F003;Central Tech;2026-04;;30671,28;Atrasado;Mensal
+P0079;C003;F004;Delta Segurança;2025-08;;3841,33;Atrasado;Mensal
+P0080;C012;F006;Forte Logística;2026-09;;25952,48;Pendente;Suporte
+P0081;C018;F009;InfraMax;2025-09;2025-11-13;7304,95;Pago;Serviço avulso
+P0082;C006;F002;Beta Facilities;2025-04;2026-04-06;56072,33;Pago;Manutenção
+P0083;C009;F007;Global Sistemas;2026-02;;56698,48;Em análise;Material
+P0084;C011;F004;Delta Segurança;2025-02;;34784,35;Em análise;Manutenção
+P0085;C008;F006;Forte Logística;2026-10;2025-08-23;51702,65;Pago;Material
+P0086;C011;F004;Delta Segurança;2025-02;2025-11-23;3983,50;Pago;Manutenção
+P0087;C006;F002;Beta Facilities;2026-12;;55265,28;Em análise;Manutenção
+P0088;C018;F009;InfraMax;2026-05;;19523,93;Em análise;Serviço avulso
+P0089;C017;F001;Alpha Serviços;2026-10;2025-08-26;21391,34;Pago;Manutenção
+P0090;C003;F004;Delta Segurança;2026-01;2025-01-18;53381,11;Pago;Serviço avulso
+P0091;C003;F004;Delta Segurança;2026-10;;40694,62;Em análise;Suporte
+P0092;C013;F003;Central Tech;2025-06;2025-01-10;57620,28;Pago;Serviço avulso
+P0093;C012;F006;Forte Logística;2025-03;2025-03-21;54617,35;Pago;Manutenção
+P0094;C005;F004;Delta Segurança;2025-04;2026-06-03;24547,03;Pago;Serviço avulso
+P0095;C005;F004;Delta Segurança;2026-08;2025-05-02;46409,72;Pago;Suporte
+P0096;C010;F005;Eco Office;2026-10;2025-10-30;28729,14;Pago;Material
+P0097;C019;F009;InfraMax;2026-05;;27187,20;Pendente;Manutenção
+P0098;C015;F007;Global Sistemas;2025-05;2025-05-17;31019,56;Pago;Manutenção
+P0099;C005;F004;Delta Segurança;2025-06;2026-01-14;20166,71;Pago;Suporte
+P0100;C010;F005;Eco Office;2025-05;;7810,16;Pendente;Serviço avulso
+P0101;C007;F008;Higieniza Mais;2026-12;2026-03-05;47103,07;Pago;Serviço avulso
+P0102;C007;F008;Higieniza Mais;2025-08;2026-06-20;49857,08;Pago;Serviço avulso
+P0103;C006;F002;Beta Facilities;2026-11;2025-10-18;27630,20;Pago;Material
+P0104;C012;F006;Forte Logística;2025-05;2025-06-06;38815,84;Pago;Suporte
+P0105;C020;F008;Higieniza Mais;2026-01;2026-06-26;37019,03;Pago;Manutenção
+P0106;C016;F008;Higieniza Mais;2025-03;;17409,73;Pendente;Manutenção
+P0107;C014;F001;Alpha Serviços;2025-05;2026-03-12;31023,29;Pago;Manutenção
+P0108;C001;F001;Alpha Serviços;2025-11;2025-12-29;9038,45;Pago;Material
+P0109;C017;F001;Alpha Serviços;2026-04;;23787,94;Em análise;Material
+P0110;C007;F008;Higieniza Mais;2025-02;2025-10-16;54131,76;Pago;Suporte
+P0111;C013;F003;Central Tech;2026-05;2025-06-02;8438,79;Pago;Suporte
+P0112;C020;F008;Higieniza Mais;2025-08;;39743,60;Atrasado;Serviço avulso
+P0113;C012;F006;Forte Logística;2026-02;2025-08-23;23135,10;Pago;Mensal
+P0114;C002;F010;Prime Soluções;2025-10;2026-06-05;53075,39;Pago;Serviço avulso
+P0115;C009;F007;Global Sistemas;2025-07;2026-06-23;22649,83;Pago;Manutenção
+P0116;C009;F007;Global Sistemas;2025-07;;18516,73;Atrasado;Serviço avulso
+P0117;C013;F003;Central Tech;2025-04;;7273,90;Atrasado;Serviço avulso
+P0118;C008;F006;Forte Logística;2026-12;;6857,26;Em análise;Serviço avulso
+P0119;C003;F004;Delta Segurança;2026-09;;46851,72;Em análise;Mensal
+P0120;C015;F007;Global Sistemas;2025-08;2025-04-01;23495,63;Pago;Serviço avulso
